@@ -1,0 +1,2 @@
+# Kaggle-Netflix-TV-Show-
+ Netflix TV Show 数据分析项目报告 项目目标： 本项目的目标是对 Netflix TV Show 数据集进行探索性数据分析 (EDA)，通过数据清洗、预处理和可视化，深入了解 Netflix 电视节目的特征，包括内容评级、上架时间、节目时长、国家分布和类别等，从而挖掘潜在的趋势和洞察。
